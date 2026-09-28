@@ -1,0 +1,10 @@
+# Local datasets and model checkpoints (publish these via Hugging Face)
+data/
+checkpoint/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
